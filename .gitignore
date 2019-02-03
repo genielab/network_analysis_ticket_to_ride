@@ -1,6 +1,7 @@
 .idea/
 *.iml
 .ipynb_checkpoints/
+output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
